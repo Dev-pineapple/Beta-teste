@@ -1,0 +1,27 @@
+body  {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1 {
+  text-align: center;
+}
+.botao {
+  background:#85C4D7ED;
+  color:#062167;
+  width: 164px;
+  margin:10px;
+  padding: 8px;
+  border: 1px solid;
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+div {
+  background: #85C4D7A1;
+  color: #062167;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid;
+}
